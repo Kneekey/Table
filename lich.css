@@ -1,0 +1,48 @@
+h1{
+    color: rgb(65, 65, 245);
+    text-align: center;
+    font-family: Arial;
+    }
+table{
+    width: 50%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200;
+    font-family: arial;
+    margin: 0px auto;
+    border-collapse: collapse;
+}
+.a{
+    background: rgb(238, 63, 63);
+    color:white;
+    }
+.b{
+    background:rgb(235, 184, 44) ;
+    color: white;
+    }
+.c{
+    background: rgb(45, 45, 252);
+    color: white;
+}
+.d_1{
+    color:rgb(238, 63, 63) ;
+}
+.e_1{
+    color:rgb(45, 45, 252);
+}
+.d{
+    color:rgb(238, 63, 63);
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+}
+.e{
+    color:rgb(45, 45, 252);
+    border: 1px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+}
+.f{
+    color: black;
+}
+.g{
+    border: 1px solid rgb(0, 0, 0);
+}
